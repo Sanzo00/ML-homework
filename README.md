@@ -1,9 +1,11 @@
 # ML-homework
-吴恩达机器学习课后作业。
+我参考黄海广大神的笔记，完成了Andrew Ng机器学习的课后作业，[doc](https://github.com/Sanzona/ML-homework/tree/main/doc)中的文档来自黄大神的总结，欢迎大家前去star！[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)。
+
+
 
 课程地址：[www.coursera.org/course/ml](https://www.coursera.org/course/ml)
 
 B站视频：[吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx)
 
-个人笔记：[https://sanzo.top/#/post/学习笔记/机器学习](https://sanzo.top/#/post/学习笔记/机器学习)
+个人笔记：[sanzo.top/#/post/学习笔记/机器学习](https://sanzo.top/#/post/学习笔记/机器学习)
 
