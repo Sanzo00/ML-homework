@@ -7,5 +7,5 @@
 
 B站视频：[吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx)
 
-个人笔记：[sanzo.top/#/post/学习笔记/机器学习](https://sanzo.top/#/post/Notes/MachineLearning)
+个人笔记：[sanzo.top/#/post/Notes/MachineLearning](https://sanzo.top/#/post/Notes/MachineLearning)
 
