@@ -1,5 +1,5 @@
 # ML-homework
-我参考黄海广大神的笔记，完成了Andrew Ng机器学习的课后作业，[doc](https://github.com/Sanzona/ML-homework/tree/main/doc)中的文档来自：[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+参考黄海广大神的笔记，完成了Andrew Ng机器学习的课后作业，[doc](https://github.com/Sanzona/ML-homework/tree/main/doc)中的文档来自：[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
 
 
@@ -7,5 +7,5 @@
 
 B站视频：[吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx)
 
-个人笔记：[sanzo.top/#/post/Notes/MachineLearning](https://sanzo.top/#/post/Notes/MachineLearning)
+个人笔记：[sanzo.top/ai/MachineLearning.html](https://sanzo.top/ai/MachineLearning.html)
 
